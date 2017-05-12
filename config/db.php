@@ -1,7 +1,7 @@
 <?php
 
 // creation connection to database
-$conn = mysqli_connect('localhost', 'root', 'nayanaya', 'phpblog');
+$conn = mysqli_connect('localhost', 'root', 'YOUR_MYSQL_PASSWORD', 'phpblog');
 
 // Check if connection is openssl_x509_check_private_key
 
